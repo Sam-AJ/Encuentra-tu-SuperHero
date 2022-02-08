@@ -8,3 +8,33 @@ body{
     background-color: rgba(241, 241, 241, 255);
     font-family: 'Bangers', cursive;
 }
+
+/* Sección de formulario */
+
+.btn{
+    background-color: #f60000;
+}
+
+/* Sección de tarjeta y gráfico*/
+
+#superhero-card .card-header{
+    background-color: #f60000;
+}
+
+/* Footer */
+
+footer{
+    background-color: #fdec00;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+footer h6, .fab{
+    color: #fff;
+    font-size: 1.5rem;
+    -webkit-text-stroke-width: 1.2px;
+    -webkit-text-stroke-color: #f60000;
+};
+
